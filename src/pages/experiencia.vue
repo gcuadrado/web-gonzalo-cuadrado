@@ -50,7 +50,7 @@ export default {
         flex: 12,
       },
       {
-        title: "El Android Libre",
+        title: "El Androide Libre",
         subtitle: "Redactor de tecnología",
         src:
           "https://images-na.ssl-images-amazon.com/images/I/919fclOv76L._AC_SL1500_.jpg",
