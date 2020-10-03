@@ -1,6 +1,8 @@
 <template>
 <div>
- <v-img src="@/assets/educacion.jpg" height="200"/>
+ <v-img src="@/assets/educacion.jpg" class="text-center align-center" height="200">
+ <p class="text-h1"><span class="px-2 bg-light">FORMACIÓN</span></p>
+ </v-img>
   <v-container>
      
     <v-row>

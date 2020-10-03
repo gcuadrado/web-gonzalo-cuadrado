@@ -21,7 +21,7 @@
       <v-icon>mdi-book-open-variant</v-icon>
     </v-btn>
     <v-btn
-      href="https://github.com/vuetifyjs/vuetify/releases/latest"
+      @click="$router.push({ path: '/experiencia' })"
       target="_blank"
       text
     >
@@ -29,7 +29,7 @@
       <v-icon>mdi-briefcase</v-icon>
     </v-btn>
     <v-btn
-      href="https://github.com/vuetifyjs/vuetify/releases/latest"
+      @click="$router.push({ path: '/proyectos' })"
       target="_blank"
       text
     >

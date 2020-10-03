@@ -30,11 +30,11 @@
             <v-list-item-title>Formación</v-list-item-title>
           </v-list-item>
 
-          <v-list-item>
+          <v-list-item @click="$router.push({ path: '/experiencia' })">
             <v-list-item-title>Experiencia</v-list-item-title>
           </v-list-item>
 
-          <v-list-item>
+          <v-list-item @click="$router.push({ path: '/proyectos' })">
             <v-list-item-title>Proyectos</v-list-item-title>
           </v-list-item>
         </v-list-item-group>
