@@ -8,8 +8,8 @@
       flat
       tile
     >
-      <v-card-title class="teal">
-        <strong class="subheading">Get connected with us on social networks!</strong>
+      <v-card-title class="primary">
+        <strong class="subheading">Puedes saber más sobre mí en mis redes sociales!</strong>
 
         <v-spacer></v-spacer>
 

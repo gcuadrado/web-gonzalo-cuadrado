@@ -6,7 +6,7 @@
       height="200"
     >
       <p class="text-h2 text-md-h1">
-        <span class="px-2 bg-light">EXPERIENCIA</span>
+        <span class="px-2 white">EXPERIENCIA</span>
       </p>
     </v-img>
     <v-card class="mx-auto">
@@ -21,7 +21,7 @@
               >
                 <v-card-title
                   class="display-1 font-weight-light black--text mb-2"
-                  ><span class="bg-light">{{ card.title }}</span></v-card-title
+                  ><span class="white">{{ card.title }}</span></v-card-title
                 >
               </v-img>
 

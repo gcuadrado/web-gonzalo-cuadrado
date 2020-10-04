@@ -1,7 +1,7 @@
 <template>
 <div>
  <v-img src="@/assets/educacion.jpg" class="text-center align-center" height="200">
- <p class="text-h1"><span class="px-2 bg-light">FORMACIÓN</span></p>
+ <p class="text-h2 text-md-h1"><span class="px-2 white">FORMACIÓN</span></p>
  </v-img>
   <v-container>
      

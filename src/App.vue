@@ -13,8 +13,8 @@
 import NavBarEscritorio from './components/NavBarEscritorio'
 import NavBarMovil from './components/NavBarMovil'
 import Footer from './components/Footer'
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
+//import 'bootstrap/dist/css/bootstrap.css'
+//import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 export default {
   name: 'App',
