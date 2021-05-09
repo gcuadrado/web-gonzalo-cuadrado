@@ -44,6 +44,12 @@ export default {
   data: () => ({
     cards: [
       {
+        title: "Regalo Original Global S.L.",
+        subtitle: "Desarrollador Fullstack: ASP NET Core + React.js + ASP MVC",
+        src: "https://rofiles.azureedge.net/Categorias/categoria-curiosas.jpg",
+        flex: 12
+      },
+      {
         title: "Smartlabs S.L.",
         subtitle: "Programador ASP.NET (C# y VB.NET) y Vue.js",
         src: "https://www.smartlabs.es/img/servicios/reparacion.png",

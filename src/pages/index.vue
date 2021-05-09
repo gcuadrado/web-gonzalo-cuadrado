@@ -12,7 +12,7 @@
     </v-btn>
     </v-col>
     <v-col cols=12 class="text-center">
-    <v-btn color="primary" outlined>Contacto
+    <v-btn color="primary" @click="sendMail()" outlined>Contacto
       <v-icon>mdi-email-outline</v-icon>
     </v-btn>
     </v-col>
@@ -39,5 +39,10 @@ export default {
   data: () => ({
     dialog:false
   }),
+  methods:{
+    sendMail(){
+      window.location.href='mailto:gonzalo.cuadrado.uriel@gmail.com';
+    }
+  }
 };
 </script>
